@@ -5,7 +5,7 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 
 # Railway Controller
 
-Template repository
+Repository containing config files and profile information for github.
 
 ## Licence
 This repo uses the [REUSE](https://reuse.software) standard in order to
